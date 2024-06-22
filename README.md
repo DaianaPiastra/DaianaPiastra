@@ -1,16 +1,38 @@
-## Hi there 👋
+<h1>Daiana Emanuela Piastra </h1>
 
-<!--
-**DaianaPiastra/DaianaPiastra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>Hi! I'm Daiana, a passionate frontend developer from Italy who has just started his journey in the world of programming. I'm currently attending a 6-month Fullstack course with Develhope to deepen my skills and 
+acquire new ones.</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>🚀 Skills</h2>
+<h3>Programming Languages:</h3>
+<ul>
+  <li>JavaScript</li>
+  <li>TypeScript</li>
+</ul>
+<h3>Frontend Development</h3>
+<ul>
+   <li>HTML5</li>
+  <li>CSS</li>
+  <li>React</li>
+</ul>
+<h3>Backend Development</h3
+<ul>
+   <li>Node.js</li>
+</ul>
+<h3>Database</h3>
+<ul>
+  <li>
+    SQLite
+  </li>
+</ul>
+<h3>Other</h3>
+<ul>
+  <li>Git</li>
+</ul>
+<h2>🌐 Connect with me</h2>
+<ul>
+  <li>GitHub:daiana_piastra</li>
+   <li>LinkedIn: Daiana Emanuela Piastra</li>
+</ul>
+<h3>🛠️ Projects</h3>
+<p>At the moment, I am working on several projects as part of my studies. Soon, I will share my progress and completed projects here.</p>
