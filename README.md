@@ -31,7 +31,7 @@ acquire new ones.</p>
 </ul>
 <h2>🌐 Connect with me</h2>
 <ul>
-  <li> <a href=" https://github.com/DaianaPiastra">GitHub:daiana_piastra</a></li>
+  <li> <a href="https://github.com/DaianaPiastra">GitHub: daiana_piastra</a></li>
    <li> <a href="www.linkedin.com/in/daiana-emanuela-piastra">LinkedIn: Daiana Emanuela Piastra</a></li>
 </ul>
 <h3>🛠️ Projects</h3>
